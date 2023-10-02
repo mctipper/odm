@@ -1,0 +1,16 @@
+"TODO" vscode extension
+
+Setup
+✔ OpenMetaData Docker Compose Deployment @done(23-10-02 16:28)
+✔ Find usable basic database - split into mutliple databases @done(23-10-02 16:28)
+✔ Db init files @done(23-10-02 16:28)
+
+OpenMetaData
+✔ Manual Connectors @done(23-10-02 16:28)
+☐ Manual Descriptions
+☐ Manual Lineage
+
+OpenMetaData API
+☐ Automated Connectors (yml / Airflow?)
+☐ Automated Descriptions
+☐ Automated Lineage
